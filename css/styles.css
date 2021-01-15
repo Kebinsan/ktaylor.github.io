@@ -1,0 +1,92 @@
+.jumbo-intro {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#portrait {
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+#jumbotron {
+    color: black;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.jumbo-intro h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.jumbo-intro h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+}
+
+.navbar {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #F5F5F5;
+    display: inline;
+}
+
+.nav-item {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-right: 20px;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.nav-link {
+    color: black;
+    text-decoration: none;
+}
+
+.nav-item a {
+    transition: all .1s ease-in-out;
+}
+
+.nav-item a:hover {
+    color: 	#606060;
+    transform: scale(1.1);
+}
+
+#media-icons {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#media-icons i {
+    font-size: 30px;
+    color: black;
+    transition: all .1s ease-in-out;
+}
+
+#media-icons i:hover {
+    transform: scale(1.2);
+}
+
+.about-me {
+    background-color: #F5F5F5;
+    padding: 130px;
+}
+
+.about-me-header {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.about-me-content {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-align: center;
+}
+
+
