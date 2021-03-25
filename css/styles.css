@@ -274,7 +274,7 @@ body {
 
 .music-content b {
     color: #33cc99;
-    font-size: 18px
+    font-size: 18px;
 }
 
 @media (max-width: 600px) {
