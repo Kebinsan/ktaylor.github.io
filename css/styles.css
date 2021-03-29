@@ -216,10 +216,9 @@ body {
     color: white;
 }
 
-.graduate i {
+.graduate img {
     margin: auto;
-    font-size: 200px;
-    opacity: 0.25;
+    height: 40vh;
     position: relative;
     top: 50%;
     -webkit-transform: translateY(-50%);
