@@ -214,11 +214,12 @@ body {
 
 .graduate {
     color: white;
+    padding:20px;
 }
 
 .graduate img {
     margin: auto;
-    height: 30vh;
+    height: auto;
     position: relative;
     top: 50%;
     -webkit-transform: translateY(-50%);
